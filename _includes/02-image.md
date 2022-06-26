@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Nobita](https://upload.wikimedia.org/wikipedia/vi/2/2c/Nobita.png)
